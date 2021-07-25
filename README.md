@@ -1,29 +1,26 @@
 # Hi there 👋
 
-You can call me Bear, i'm 18yo, I live in Bogor City - West Java.
+## You can call me Bear, i'm 18yo, I live in Bogor City - West Java.
 
 
+----------------------------------------------------------------
+## About me :
 
-About me :
+#### Very motivated to keep learning and improving my skills
+#### especially in the field of Machine Learning and Artificial Intelligence.
+----------------------------------------------------------------
+## Skills :
 
-Very motivated to keep learning and improving my skills
-especially in the field of Machine Learning and Artificial Intelligence.
+#### Python | Data Structure | Algorithm
+#### Machine Learning | Scikit-learn | Tensorflow
+#### Pandas | Numpy | Matplotlib | Tkinter | Streamlit
+----------------------------------------------------------------
+## My Insterest & Activities :
 
+#### Programming | Photography | Books | Movies
+#### Music | Comics | Modelling | Design | Art 
+#### Running | Badminton 
 
-
-Skills :
-
-Python | Data Structure | Algorithm
-Machine Learning | Scikit-learn | Tensorflow
-Pandas | Numpy | Matplotlib | Tkinter | Streamlit
-
-
-
-My Insterest & Activities :
-
-Programming | Photography | Books | Movies
-Music | Comics | Modelling | Design | Art 
-Running | Badminton 
 <!--
 **knightbearr/knightbearr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
