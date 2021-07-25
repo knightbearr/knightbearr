@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 You can call me Bear, i'm 18yo, I live in Bogor City - West Java.
 
