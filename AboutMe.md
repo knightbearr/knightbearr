@@ -9,11 +9,6 @@
 #### Very motivated to keep learning and improving my skills
 #### especially in the field of Machine Learning and Artificial Intelligence.
 
-## 🛠️ Skills :
-
-#### Python | Data Structure | Algorithm
-#### Machine Learning | Scikit-learn | Tensorflow
-#### Pandas | Numpy | Matplotlib | Tkinter | Streamlit
 
 ## 🚀 My Interest & Activities :
 
