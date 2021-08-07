@@ -18,10 +18,10 @@
 
 ## 📫 How to reach me : 
 
-### Email : azmimuis3312@gmail.com
-### Instagram : https://www.instagram.com/knightbearr/
-### Facebook : https://web.facebook.com/profile.php?id=100010820350486
-### Twitter : https://twitter.com/Knightbearr
+### Email : [youremail@mail.com](azmimuis3312@gmail.com)
+### Instagram : [@yourinstagram](https://www.instagram.com/knightbearr/)
+### Facebook : [@yourfacebook](https://web.facebook.com/profile.php?id=100010820350486)
+### Twitter : [@yourtwitter](https://twitter.com/Knightbearr)
 
 <!--
 **knightbearr/knightbearr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
