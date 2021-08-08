@@ -1,11 +1,17 @@
-# Hi there 👋
+# Hi there 👋 
 
 You can call me Bear, i'm 18yo, I live in Bogor City - West Java.
+- 🌱 I’m currently learning SQL
+- 👯 I’m looking to collaborate on Machine Learning Project
+- ⚡ Fun fact: I'm in confusion, can you help me choose between Twice and Blackpink? 
+
 
 ## About me :
 
-Very motivated to keep learning and improving my skills
+Very motivated to keep learning and improving my skills<br>
 especially in the field of Machine Learning and Artificial Intelligence.
+
+## Languages and Tools :
 
 
 ## My Interest & Activities :
@@ -29,7 +35,12 @@ Running | Badminton
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=knightbearr&layout=compact&langs_count=8&theme=bear"/>
 </a>
 
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=knightbearr&theme=github)
  
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=knightbearr&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+</a>
 <!--
 **knightbearr/knightbearr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
