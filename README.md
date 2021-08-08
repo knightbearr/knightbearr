@@ -37,7 +37,7 @@ Running | Badminton
 
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=knightbearr&theme=github)
  
-<p align="center">
+<p align="right">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=knightbearr&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
