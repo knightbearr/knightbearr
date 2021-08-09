@@ -37,12 +37,6 @@ Running | Badminton
 </a>
 
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=knightbearr&theme=github)
- 
-  
-<p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=knightbearr&theme=bear&hide_border=true" width = 400>
-</p>
-  
 <!--
 **knightbearr/knightbearr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
