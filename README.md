@@ -14,6 +14,7 @@ especially in the field of Machine Learning and Artificial Intelligence.
 
 Python | Google Colab | Repl <br>
 VS Code | Jupyter Notebook | SQL
+R
 
 ## My Interest & Activities :
 
