@@ -13,7 +13,7 @@ especially in the field of Machine Learning and Artificial Intelligence.
 ## Languages and Tools :
 
 Python | Google Colab | Repl <br>
-VS Code | Jupyter Notebook | SQL
+VS Code | Jupyter Notebook | SQL  
 R
 
 ## My Interest & Activities :
