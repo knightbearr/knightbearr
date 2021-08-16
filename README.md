@@ -28,6 +28,8 @@ Running | Badminton
 #### Instagram : [@yourinstagram](https://www.instagram.com/knightbearr/)
 #### Facebook : [@yourfacebook](https://web.facebook.com/profile.php?id=100010820350486)
 #### Twitter : [@yourtwitter](https://twitter.com/Knightbearr)
+#### Kaggle : [@yourkaggle](https://www.kaggle.com/knightbearr)
+#### LinkedIn : [@yourlinkedin](https://www.linkedin.com/in/azmi-muis-22a092200/)
 
 <br>
 
