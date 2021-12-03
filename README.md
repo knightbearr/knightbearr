@@ -45,9 +45,13 @@ Running | Badminton
 <a href="https://github.com/knightbearr">
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=knightbearr&theme=bear"/>
 </a>
- 
-![Kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/badges/Knightbearr/notebook)
-![Kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/badges/Knightbearr/discussion)
+
+<p align="center">
+<a href="https://github.com/knightbearr">  
+  <img height="150cm" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/Knightbearr/dataset"/>
+  <img height="150cm" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/Knightbearr/notebook"/>
+  <img height="150cm" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/Knightbearr/discussion"/>
+ </a>  
 <!--
 **knightbearr/knightbearr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
