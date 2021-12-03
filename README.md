@@ -47,7 +47,7 @@ Running | Badminton
 </a>
 
 <p align="center">
-<a href="https://github.com/knightbearr">  
+<a href="https://www.kaggle.com/knightbearr">  
   <img height="150cm" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/Knightbearr/dataset"/>
   <img height="150cm" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/Knightbearr/notebook"/>
   <img height="150cm" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/Knightbearr/discussion"/>
