@@ -3,7 +3,7 @@
 You can call me Bear, i'm 18yo, I live in Bogor City - West Java.
 - 🌱 I’m currently learning SQL
 - 👯 I’m looking to collaborate on Machine Learning Project
-- ⚡ Fun fact: I'm in confusion, can you help me choose between Twice and Blackpink? 
+- ⚡ Fun fact: I'm in confusion, can you help me choose between bear and knightbearr?
 
 ## About me :
 
