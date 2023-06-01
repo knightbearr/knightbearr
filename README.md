@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-You can call me Bear, i'm 20yo, I live in Bogor City - West Java.
+You can call me Woo, i'm 20yo, I live in Jepara - Indonesia
 - 🌱 I’m currently learning SQL
 - 👯 I’m looking to collaborate on Machine Learning Project
 - ⚡ Fun fact: I'm in confusion, can you help me choose between bear and knightbearr?
